@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A canto to a canter: or, The pulpits complaint</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79941</idno>
+            <idno type="STC">Wing C463A</idno>
+            <idno type="STC">ESTC R205503</idno>
+            <idno type="EEBO-CITATION">99895225</idno>
+            <idno type="PROQUEST">99895225</idno>
+            <idno type="VID">152593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2307:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A canto to a canter: or, The pulpits complaint</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Room for a canter in religions guise,".</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Humor --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:152593:1" rendition="simple:additions"/>
+            <head>A CANTO TO A CANTER: OR, The Pulpits Complaint.</head>
+            <lg>
+               <l>
+                  <hi>ROom</hi> for <hi>a Canter</hi> in <hi>Religions guiſe,</hi>
+               </l>
+               <l>With <hi>Cambrick-band, long Cloak,</hi> and <hi>cockt-up Eyes.</hi>
+               </l>
+               <l>Who can with <hi>piteous Tears</hi> and <hi>Cries beguile,</hi>
+               </l>
+               <l>Surer than does th'<hi>Egyptian-Crocodile,</hi>
+               </l>
+               <l>Yet at's <hi>gull'd Audience, in his ſleeve does ſmile.</hi>
+               </l>
+               <l>Whoſe <hi>Prayers,</hi> in ſuch <hi>rude lowdneſs</hi> ſtill are ſaid,</l>
+               <l>As if the <hi>God</hi> was <hi>deaf,</hi> to which he <hi>pray'd.</hi>
+               </l>
+               <l>Unto whoſe <hi>Iron-lungs</hi> and <hi>throat of braſs,</hi>
+               </l>
+               <l>But a <hi>ſmall-reed,</hi> loud <hi>Stentor</hi>'s <hi>wind-pipe was.</hi>
+               </l>
+               <l>Who like the <hi>Ocean</hi> when the winds do blow,</l>
+               <l>Does from <hi>ſoft murmurs,</hi> into <hi>roaring</hi> grow,</l>
+               <l>And nothing forth but <hi>mire</hi> and <hi>dirt</hi> does <hi>throw.</hi>
+               </l>
+               <l>You'd think the <hi>Sea</hi> had taught him how <hi>to pray,</hi>
+               </l>
+               <l>He <hi>roars</hi> and <hi>beats</hi> his <hi>Desk,</hi> the ſelf-ſame way,</l>
+               <l>With <hi>briniſh foam, waſhing</hi> his <hi>Cuſhion</hi> o're,</l>
+               <l>Then <hi>falling back</hi> for <hi>zeal</hi> he can't do more.</l>
+               <l>As if the <hi>Pulpit</hi> were of <hi>Walnut-tree,</hi>
+               </l>
+               <l>He <hi>beats it,</hi> that more <hi>fruitful</hi> it may be.</l>
+               <l>Whilſt his <hi>Religious thraſhing</hi> in his <hi>Cloak</hi>
+               </l>
+               <l>Doth like th'<hi>Egyptian Copties Service</hi> look,</l>
+               <l>Who never in their <hi>Churches ſit</hi> or <hi>kneel,</hi>
+               </l>
+               <l>But in the <hi>painfull'ſt poſtures worſhip</hi> ſtill.</l>
+               <l>But now the <hi>Glaſs</hi> is <hi>turn'd,</hi> and <hi>Hems</hi> make way,</l>
+               <l>And bid the <hi>Brother-hood</hi> prepare to Pray.</l>
+               <l>And now with <hi>face</hi> ſo <hi>ſowr</hi> he does appear,</l>
+               <l>As if hee'd been <hi>Baptiz'd</hi> in <hi>Vinegar;</hi>
+               </l>
+               <pb n="2" facs="tcp:152593:2"/>
+               <l>Or as his Looks ſhould ſome <hi>reſemblance</hi> hold</l>
+               <l>With the <hi>Jews bitter Sacrifice</hi> of old.</l>
+               <l>Into ſuch <hi>Mimick-poſtures</hi> he does <hi>ſcrue</hi>
+               </l>
+               <l>
+                  <hi>His face,</hi> enough to make his <hi>Audience ſpue.</hi>
+               </l>
+               <l>Now does the <hi>tedious Exerciſe</hi> commence,</l>
+               <l>Where <hi>canting Phraſe</hi> proclaims his <hi>Eloquence,</hi>
+               </l>
+               <l>And <hi>rudely Elbows out</hi> poor <hi>modeſt Sence.</hi>
+               </l>
+               <l>For the firſt <hi>long half hour,</hi> like Herald he,</l>
+               <l>
+                  <hi>How great</hi> he is, acquaints the <hi>Deitie.</hi>
+               </l>
+               <l>Then with their <hi>Sins</hi> they are <hi>ſeverely dous'd,</hi>
+               </l>
+               <l>And in <hi>Repentance pickle</hi> ſharply ſous'd.</l>
+               <l>The <hi>Glaſs</hi> ſtill run, but it did run ſo <hi>ſlow,</hi>
+               </l>
+               <l>Thought I, <hi>Time flies</hi> not <hi>here,</hi> it <hi>ſcarce</hi> doth <hi>go.</hi>
+               </l>
+               <l>With <hi>Head declin'd,</hi> I did for <hi>ſleep compoſe,</hi>
+               </l>
+               <l>Having of's <hi>Opium</hi> took too large <hi>a Doſe.</hi>
+               </l>
+               <l>Could they not better <hi>Watch</hi> than <hi>Peter</hi> keep,</l>
+               <l>The t'other <hi>Glaſs</hi> had <hi>laid</hi> them all <hi>to ſleep.</hi>
+               </l>
+               <l>By his <hi>long-Prayer</hi> I did conclude, that he</l>
+               <l>Was of that <hi>Sect</hi> the <hi>Jews</hi> call'd <hi>Phariſee,</hi>
+               </l>
+               <l>
+                  <hi>Both old Acquaintance</hi> of <hi>Hypocriſie.</hi>
+               </l>
+               <l>
+                  <hi>Six Staves</hi> of <hi>Hopkins beat</hi> me up at length,</l>
+               <l>But prais'd be <hi>Morpheus,</hi> I had gain'd <hi>new ſtrength</hi>
+               </l>
+               <l>To hear the <hi>Sermon,</hi> which I don't retain,</l>
+               <l>The <hi>Sower ſow'd</hi> ſuch lamentable <hi>grain,</hi>
+               </l>
+               <l>Yet of their <hi>barrenneſs</hi> did ſtill complain.</l>
+               <l>
+                  <hi>Strong</hi> was his <hi>Desk,</hi> elſe it had ſurely been</l>
+               <l>
+                  <hi>Cruſht</hi> to the <hi>ground,</hi> by his grand <hi>load</hi> of Sin.</l>
+               <l>Who to be <hi>Learned</hi> thought, <hi>fathers</hi> a Lye</l>
+               <l>On <hi>Auſtin, Bernard,</hi> and St. <hi>Hillary.</hi>
+               </l>
+               <l>And when he <hi>aims</hi> at <hi>Sence,</hi> doth always vent</l>
+               <l>More <hi>fooliſh Bulls,</hi> than e're the <hi>Popedome</hi> ſent</l>
+               <l>Into the <hi>World;</hi> nor ever <hi>Sermon</hi> makes,</l>
+               <l>But ſtrait turns <hi>Vagrant,</hi> and the <hi>Text forſakes.</hi>
+               </l>
+               <l>Something of <hi>Alms</hi> and <hi>Bounty</hi> he did <hi>Preach,</hi>
+               </l>
+               <l>Things by <hi>Example</hi> which he ne're will teach;</l>
+               <l>Thoſe <hi>fruits</hi> hee'd have, only i'th' <hi>Peoples reach.</hi>
+               </l>
+               <l>The only <hi>leſſon</hi> which I bore from thence,</l>
+               <l>Was, that <hi>A Mad Dog's Medicine's Patience.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
